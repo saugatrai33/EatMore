@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EatMore</string>
+    <string name="title_choose_the">Choose the</string>
+    <string name="title_food_you_love">Food you love</string>
+    <string name="hint_search_for_food_item">Search for food item</string>
+    <string name="title_category">Category</string>
+    <string name="burger">Burger</string>
+    <string name="chicken">Chicken</string>
+    <string name="pizza">Pizza</string>
+    <string name="price">$ %d</string>
+</resources>
