@@ -1,4 +1,4 @@
 # EatMore
 Food app UI design
 
-![food app](https://user-images.githubusercontent.com/22369188/115891325-b1707c00-a475-11eb-874a-00b823f9b8c3.jpg)
+![home page](https://user-images.githubusercontent.com/22369188/115942984-fd9adb00-a4cc-11eb-8e55-2ecac53e2923.jpg)
